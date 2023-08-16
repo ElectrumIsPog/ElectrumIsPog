@@ -18,10 +18,7 @@
 
 ### Feed
 
-- Making a multi-purpose Discord bot using Javascript. 
-- Learning more Javascript
-- Learning more java
-- I'm working on [Dobro](https://github.com/NickR69420/Dobro)
+  - TwistMC Developer Manager 
 
 ### Languages and Tools.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -39,6 +36,4 @@
 
 ### Discord
 
-ELECTRUM#0729
-
-Join my [Discord Server!](https://discord.gg/TYabRdZW)
+.electrum
