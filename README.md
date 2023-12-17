@@ -17,8 +17,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElectrumIsPog&theme=tokyonight&layout=compact&exclude_lang=java+r" />
 
 ### Info
-  - CEO of [eHost.cc](ehost.cc)
-  - [TwistMC](twistmc.net) Developer Manager 
+- CEO of [eHost.cc](https://ehost.cc)
+- Owner of [Spotifyupgraders.cc](https://spotifyupgraders.cc)
+- [TwistMC](https://twistmc.net) Developer Manager
+
 
 ### Languages and Tools.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
