@@ -1,9 +1,4 @@
 
-![Electrum](https://i.imgur.com/K2dIoIL.jpg)
-
-
-
-
 ###                                                                                   Overall Statistics.
 
 <a href="https://github.com/ElectrumIsPog">
