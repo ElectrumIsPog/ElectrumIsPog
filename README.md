@@ -12,14 +12,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElectrumIsPog&theme=tokyonight&layout=compact&exclude_lang=java+r" />
 
 ### Info
-- CEO of [eHost.cc](https://ehost.cc)
-- Owner of [Spotifyupgraders.cc](https://spotifyupgraders.cc)
 - [TwistMC](https://twistmc.net) Developer Manager
 
 
 ### Languages and Tools.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="intellij" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" />
 
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
