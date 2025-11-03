@@ -11,8 +11,6 @@
 ![Electums's Github Stats!](https://github-readme-stats.vercel.app/api?username=ElectrumIsPog&show_icons=true&theme=tokyonight) 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElectrumIsPog&theme=tokyonight&layout=compact&exclude_lang=java+r" />
 
-### Info
-- [TwistMC](https://twistmc.net) Developer Manager
 
 
 ### Languages and Tools.
